@@ -1,7 +1,7 @@
 {
   "homepage": "https://rohugithub.github.io/ochidesign",
   "name": "ochiedesign",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
