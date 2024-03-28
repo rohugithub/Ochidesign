@@ -15,12 +15,12 @@ function Card() {
         </div>
         <div className=' cardcontainer w-1/2 flex gap-4'>
             <div className=' w-1/2 h-[70vh] bg-[#212121] rounded-2xl relative'>
-               <img className='object-cover absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]' src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg" alt="" />
+               <img className='object-cover absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]' src="./public/images/logo002.svg" alt="" />
                <div className=' w-44 text-center mt-[60vh] h-7 ml-7 border-[1px] rounded-full border-zinc-100 uppercase font-["mont"] text-sm text-gray-100  text-[400]'>rating 5.0 on clutch</div>
             </div>
 
             <div className=' w-1/2 h-[70vh] bg-[#212121] rounded-2xl relative '>
-            <img className=' w-[9.2vw] h-[20vh]  object-cover absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]' src="https://ochi.design/wp-content/uploads/2022/04/logo003.png" alt="" />
+            <img className=' w-[9.2vw] h-[20vh]  object-cover absolute top-1/2 left-1/2 -translate-x-[50%] -translate-y-[50%]' src="./public/images/logo003.png" alt="" />
             <div className=' w-56 text-center mt-[60vh] h-7 ml-7 border-[1px] rounded-full border-zinc-100 uppercase font-["mont"] text-sm text-gray-100  text-[400]'>business bootcamp alumini</div>
             </div>
         </div>

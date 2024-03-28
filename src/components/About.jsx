@@ -31,7 +31,7 @@ function About() {
             </button>
             </div> 
             <div className=' w-1/2 h-[70vh] mr-5 rounded-lg bg-[#454C30] mt-10 overflow-hidden'>
-            <img className=' w-full h-full object-cover' src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg" alt="" />
+            <img className=' w-full h-full object-cover' src="./public/images/ochi1.jpg" alt="" />
             </div>  
          </div>
           
